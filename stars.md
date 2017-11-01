@@ -36,6 +36,7 @@
 - Человеческие разговоры на тему AWS [open-guides/og-aws](https://github.com/open-guides/og-aws)
 
 ## Javascript
+- Библиотека для форматирования чисел [adamwdraper/Numeral-js](https://github.com/adamwdraper/Numeral-js)
 - Библиотека для самостоятельного определения что нужно кропнуть [jwagner/smartcrop.js](https://github.com/jwagner/smartcrop.js)
 - Альтернативный подход к парсингу и преобразованию HTML [posthtml/posthtml](https://github.com/posthtml/posthtml)
 - Вывод console.log на сайт [chinchang/screenlog.js](https://github.com/chinchang/screenlog.js)
@@ -90,3 +91,7 @@
 
 ## Misc
 - Книга Passionate Programmer на русском [etartakovsky/passionate-programmer-translation](https://github.com/etartakovsky/passionate-programmer-translation)
+
+## Webpack
+- Анализ сборки [Webpack/analyse](https://github.com/webpack/analyse)
+- Babel-loader [babel/babel-loader](https://github.com/babel/babel-loader)
