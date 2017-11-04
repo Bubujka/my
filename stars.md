@@ -15,6 +15,9 @@
 - Инструмент отладки попиксельности [2gis/makeup](https://github.com/2gis/makeup)
 - Список софта по Stylguide [davidhund/styleguide-generators](https://github.com/davidhund/styleguide-generators)
 
+## Email
+- Фрэймворк для вёрстки писем [SparkPost/heml](https://github.com/SparkPost/heml)
+
 ## Programming
 - Краткий план развития web-разработчика [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
 - Заметки по архитектуре систем [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
