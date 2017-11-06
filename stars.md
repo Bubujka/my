@@ -88,6 +88,7 @@
 - Список для frontend разработчика [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
 - Список по D3 [wbkd/awesome-d3](https://github.com/wbkd/awesome-d3)
 - Перипись книг по программированию [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+- Список по python [vinta/awesome-python](https://github.com/vinta/awesome-python)
 
 ## Nginx
 - Cookbook по nginx [nginx-boilerplate/nginx-boilerplate](https://github.com/nginx-boilerplate/nginx-boilerplate)

@@ -14,3 +14,8 @@
 
 ## Vim
 - Перепись модулей для vim [vimawesome.com](https://vimawesome.com/)
+
+## Kernel
+- Кто-то-что-то-поломал [mail](http://lkml.iu.edu/hypermail/linux/kernel/1710.3/02474.html)
+  [discussion](https://news.ycombinator.com/item?id=15609419)
+
