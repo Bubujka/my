@@ -91,7 +91,6 @@
 - Список по python [vinta/awesome-python](https://github.com/vinta/awesome-python)
 
 ## Nginx
-- Cookbook по nginx [nginx-boilerplate/nginx-boilerplate](https://github.com/nginx-boilerplate/nginx-boilerplate)
 
 ## Misc
 - Книга Passionate Programmer на русском [etartakovsky/passionate-programmer-translation](https://github.com/etartakovsky/passionate-programmer-translation)
@@ -99,3 +98,14 @@
 ## Webpack
 - Анализ сборки [Webpack/analyse](https://github.com/webpack/analyse)
 - Babel-loader [babel/babel-loader](https://github.com/babel/babel-loader)
+
+## Unsorted
+- Style your webpage like Edward Tufte’s handouts. [edwardtufte/tufte-css](https://github.com/edwardtufte/tufte-css)
+- 600 baud pipe and terminal. [sjmulder/trickle](https://github.com/sjmulder/trickle)
+- From finding text to search and replace, from sorting to beautifying text and more [learnbyexample/Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing)
+- 🗂 The perfect Front-End Checklist for modern websites and meticulous developers [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist)
+- Actively curated list of awesome BI tools. PRs welcome! [thenaturalist/awesome-business-intelligence](https://github.com/thenaturalist/awesome-business-intelligence)
+- Compose shell commands to build interactive terminal applications [ericfreese/rat](https://github.com/ericfreese/rat)
+- Fuzzy search for PHP based on the Bitap algorithm [Loilo/Fuse](https://github.com/Loilo/Fuse)
+- Better MV-ish Framework [astoilkov/jsblocks](https://github.com/astoilkov/jsblocks)
+- TimelineJS: A Storytelling Timeline built in JavaScript.  [NUKnightLab/TimelineJS](https://github.com/NUKnightLab/TimelineJS)
