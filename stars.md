@@ -96,6 +96,7 @@ title: Лайки на github
 - Перипись книг по программированию [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
 - Список по python [vinta/awesome-python](https://github.com/vinta/awesome-python)
 - Список ссылок по аналитике-статистике  [thenaturalist/awesome-business-intelligence](https://github.com/thenaturalist/awesome-business-intelligence)
+- Список ссылок по питону [dhamaniasad/awesome-postgres](https://github.com/dhamaniasad/awesome-postgres)
 
 ## Misc
 - Книга Passionate Programmer на русском [etartakovsky/passionate-programmer-translation](https://github.com/etartakovsky/passionate-programmer-translation)
@@ -104,3 +105,5 @@ title: Лайки на github
 - Анализ сборки [Webpack/analyse](https://github.com/webpack/analyse)
 - Babel-loader [babel/babel-loader](https://github.com/babel/babel-loader)
 
+## Python
+- Сервис для отладки http запросов [kennethreitz/httpbin](https://github.com/kennethreitz/httpbin)
