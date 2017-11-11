@@ -2,9 +2,10 @@
 title: Репозитории
 ---
 
+## CLI
+- Мой набор скриптов, накопленный за всё время жизни в linux [Bubujka/bu.bin](https://github.com/Bubujka/bu.bin)
+
 ## Unsorted
-- None [Bubujka/aerprt-repro](https://github.com/Bubujka/aerprt-repro)
-- None [Bubujka/bu.bin](https://github.com/Bubujka/bu.bin)
 - None [Bubujka/bu.cards](https://github.com/Bubujka/bu.cards)
 - None [Bubujka/bu.common.php](https://github.com/Bubujka/bu.common.php)
 - None [Bubujka/bu.defun](https://github.com/Bubujka/bu.defun)
@@ -76,13 +77,11 @@ title: Репозитории
 - None [Bubujka/test-installed-software.sh](https://github.com/Bubujka/test-installed-software.sh)
 - None [Bubujka/test-site](https://github.com/Bubujka/test-site)
 - Node.js/AWS/ImageMagick-based image thumbnailing service. [Bubujka/thumbd](https://github.com/Bubujka/thumbd)
-- None [Bubujka/til](https://github.com/Bubujka/til)
 - None [Bubujka/timeline](https://github.com/Bubujka/timeline)
 - None [Bubujka/tmio](https://github.com/Bubujka/tmio)
 - None [Bubujka/toggl-stats](https://github.com/Bubujka/toggl-stats)
 - Normalize time entries in workspace to 8 hours. [Bubujka/toggl8](https://github.com/Bubujka/toggl8)
 - A remote monitoring application using Node.js, MongoDB, and Twitter Bootstrap. [Bubujka/uptime](https://github.com/Bubujka/uptime)
-- None [Bubujka/vagrant-tpl](https://github.com/Bubujka/vagrant-tpl)
 - Vim plugin for php.tools [Bubujka/vim-phpfmt](https://github.com/Bubujka/vim-phpfmt)
 - None [Bubujka/vkdr](https://github.com/Bubujka/vkdr)
 - None [Bubujka/webpack-mentalpo](https://github.com/Bubujka/webpack-mentalpo)
