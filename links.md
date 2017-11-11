@@ -1,6 +1,6 @@
 ---
+title: Закладки
 ---
-# Bubujka`s links
 
 ## Lists
 - Список советуемых книг на reddit [redditfavorites.com](https://redditfavorites.com/)

@@ -1,9 +1,5 @@
 ---
 permalink: index.html
+title: Bubujka my.git
 ---
 
-# Bubujka my.git
-
-- [Звёзды на github](stars.html)
-- [Закладки](links.html)
-- [Игры](games.html)

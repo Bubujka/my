@@ -1,6 +1,6 @@
 ---
+title: Лайки на github
 ---
-# Bubujka`s github stars
 
 ## Najomi
 - Сайт [najomi/najomi.org](https://github.com/najomi/najomi.org)
