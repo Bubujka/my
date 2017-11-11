@@ -7,13 +7,18 @@ title: Лайки на github
 - Данные [najomi/data](https://github.com/najomi/data)
 
 ## CLI
+- Троттлинг для консоли [sjmulder/trickle](https://github.com/sjmulder/trickle)
 - Fuzzy-поиск по списку строк [junegunn/fzf](https://github.com/junegunn/fzf)
 - Альтернатива fzf [peco/peco](https://github.com/peco/peco)
 - Введение в bash [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)
+- Работа над текстом в unix [learnbyexample/Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing)
+- Построение интерфейса на основе консольных команд [ericfreese/rat](https://github.com/ericfreese/rat)
 
 ## HTML & CSS
 - Инструмент отладки попиксельности [2gis/makeup](https://github.com/2gis/makeup)
+- Читаемый css для текстового сайта [edwardtufte/tufte-css](https://github.com/edwardtufte/tufte-css)
 - Список софта по Stylguide [davidhund/styleguide-generators](https://github.com/davidhund/styleguide-generators)
+- Список того, что надо проверять у фронта перед релизом [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist)
 
 ## Email
 - Фрэймворк для вёрстки писем [SparkPost/heml](https://github.com/SparkPost/heml)
@@ -69,6 +74,7 @@ title: Лайки на github
 - Перепись филдов под PSR7 [oscarotero/psr7-middlewares](https://github.com/oscarotero/psr7-middlewares)
 - Метапрограммирование? на php [Bubujka/bu.defun](https://github.com/Bubujka/bu.defun)
 - Подсчёт имбридинга в родословной [Bubujka/bu.inbreeding](https://github.com/Bubujka/bu.inbreeding)
+- Нечёткий поиск для php [Loilo/Fuse](https://github.com/Loilo/Fuse)
 
 ## Webdev
 - Превратить google таблицу в json [bassarisse/google-spreadsheet-to-json](https://github.com/bassarisse/google-spreadsheet-to-json)
@@ -89,8 +95,7 @@ title: Лайки на github
 - Список по D3 [wbkd/awesome-d3](https://github.com/wbkd/awesome-d3)
 - Перипись книг по программированию [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
 - Список по python [vinta/awesome-python](https://github.com/vinta/awesome-python)
-
-## Nginx
+- Список ссылок по аналитике-статистике  [thenaturalist/awesome-business-intelligence](https://github.com/thenaturalist/awesome-business-intelligence)
 
 ## Misc
 - Книга Passionate Programmer на русском [etartakovsky/passionate-programmer-translation](https://github.com/etartakovsky/passionate-programmer-translation)
@@ -99,13 +104,3 @@ title: Лайки на github
 - Анализ сборки [Webpack/analyse](https://github.com/webpack/analyse)
 - Babel-loader [babel/babel-loader](https://github.com/babel/babel-loader)
 
-## Unsorted
-- Style your webpage like Edward Tufte’s handouts. [edwardtufte/tufte-css](https://github.com/edwardtufte/tufte-css)
-- 600 baud pipe and terminal. [sjmulder/trickle](https://github.com/sjmulder/trickle)
-- From finding text to search and replace, from sorting to beautifying text and more [learnbyexample/Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing)
-- 🗂 The perfect Front-End Checklist for modern websites and meticulous developers [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist)
-- Actively curated list of awesome BI tools. PRs welcome! [thenaturalist/awesome-business-intelligence](https://github.com/thenaturalist/awesome-business-intelligence)
-- Compose shell commands to build interactive terminal applications [ericfreese/rat](https://github.com/ericfreese/rat)
-- Fuzzy search for PHP based on the Bitap algorithm [Loilo/Fuse](https://github.com/Loilo/Fuse)
-- Better MV-ish Framework [astoilkov/jsblocks](https://github.com/astoilkov/jsblocks)
-- TimelineJS: A Storytelling Timeline built in JavaScript.  [NUKnightLab/TimelineJS](https://github.com/NUKnightLab/TimelineJS)
