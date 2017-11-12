@@ -19,6 +19,7 @@ title: Лайки на github
 - Читаемый css для текстового сайта [edwardtufte/tufte-css](https://github.com/edwardtufte/tufte-css)
 - Список софта по Stylguide [davidhund/styleguide-generators](https://github.com/davidhund/styleguide-generators)
 - Список того, что надо проверять у фронта перед релизом [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist)
+- Генератор статичных сайтов [jekyll/jekyll](https://github.com/jekyll/jekyll)
 
 ## Email
 - Фрэймворк для вёрстки писем [SparkPost/heml](https://github.com/SparkPost/heml)
