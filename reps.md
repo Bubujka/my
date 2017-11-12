@@ -4,20 +4,29 @@ title: Репозитории
 
 ## CLI
 - Мой набор скриптов, накопленный за всё время жизни в linux [Bubujka/bu.bin](https://github.com/Bubujka/bu.bin)
+- Форк st [Bubujka/st](https://github.com/Bubujka/st)
+- Интерфейс для обработки текстовых файлов с кучей хоткеев [Bubujka/bu.cards](https://github.com/Bubujka/bu.cards)
+
+## PHP
+- Расчёт имбридинга [Bubujka/bu.inbreeding](https://github.com/Bubujka/bu.inbreeding)
+- Метапрограммирование на PHP [Bubujka/bu.defun](https://github.com/Bubujka/bu.defun)
+- Мелкие наработки для web-разработки [Bubujka/bu.common.php](https://github.com/Bubujka/bu.common.php)
+- Детское творчество [Bubujka/bubujka.framework](https://github.com/Bubujka/bubujka.framework)
+
+## Websites
+- Сайт по творчеству РАБФАК [wuwujka/rabfak](https://github.com/wuwujka/rabfak)
+- Перепись любимых песен [wuwujka/songs](https://github.com/wuwujka/songs)
+- Моя песочница с jekyll [wuwujka/jekyll-sandbox](https://github.com/wuwujka/jekyll-sandbox)
+
 
 ## Unsorted
-- None [Bubujka/bu.cards](https://github.com/Bubujka/bu.cards)
-- None [Bubujka/bu.common.php](https://github.com/Bubujka/bu.common.php)
-- None [Bubujka/bu.defun](https://github.com/Bubujka/bu.defun)
 - None [Bubujka/bu.defun.sandbox](https://github.com/Bubujka/bu.defun.sandbox)
 - None [Bubujka/bu.dmenu](https://github.com/Bubujka/bu.dmenu)
 - None [Bubujka/bu.get_char.rb](https://github.com/Bubujka/bu.get_char.rb)
-- None [Bubujka/bu.inbreeding](https://github.com/Bubujka/bu.inbreeding)
 - None [Bubujka/bu.menu](https://github.com/Bubujka/bu.menu)
 - Angular directive for masking image before its loaded [Bubujka/bu.ng.nice-preload](https://github.com/Bubujka/bu.ng.nice-preload)
 - Графика и библиотеки по frontend, которые часто мне бывают нужны [Bubujka/bu.public](https://github.com/Bubujka/bu.public)
 - None [Bubujka/bu.tgl](https://github.com/Bubujka/bu.tgl)
-- Light php framework [Bubujka/bubujka.framework](https://github.com/Bubujka/bubujka.framework)
 - None [Bubujka/bubujka.org](https://github.com/Bubujka/bubujka.org)
 - Centrally managed todo lists for complex processes - onboarding, offboarding, management changes, etc. [Bubujka/checklistomania](https://github.com/Bubujka/checklistomania)
 - None [Bubujka/cltr](https://github.com/Bubujka/cltr)
@@ -67,14 +76,12 @@ title: Репозитории
 - None [Bubujka/sakura](https://github.com/Bubujka/sakura)
 - None [Bubujka/sakura2](https://github.com/Bubujka/sakura2)
 - None [Bubujka/sakura2-demo-site](https://github.com/Bubujka/sakura2-demo-site)
-- None [Bubujka/st](https://github.com/Bubujka/st)
 - None [Bubujka/stars](https://github.com/Bubujka/stars)
 - None [Bubujka/svg-krestik](https://github.com/Bubujka/svg-krestik)
 - Javascript library to connect to swagger-enabled APIs via browser or nodejs [Bubujka/swagger-js](https://github.com/Bubujka/swagger-js)
 - None [Bubujka/swagger-js-wrapped](https://github.com/Bubujka/swagger-js-wrapped)
 - The Swagger Specification Repository [Bubujka/swagger-spec](https://github.com/Bubujka/swagger-spec)
 - None [Bubujka/test-installed-software.sh](https://github.com/Bubujka/test-installed-software.sh)
-- None [Bubujka/test-site](https://github.com/Bubujka/test-site)
 - Node.js/AWS/ImageMagick-based image thumbnailing service. [Bubujka/thumbd](https://github.com/Bubujka/thumbd)
 - None [Bubujka/timeline](https://github.com/Bubujka/timeline)
 - None [Bubujka/tmio](https://github.com/Bubujka/tmio)
@@ -87,6 +94,4 @@ title: Репозитории
 - None [Bubujka/wiki](https://github.com/Bubujka/wiki)
 - None [Bubujka/wtch](https://github.com/Bubujka/wtch)
 - None [Bubujka/yadr](https://github.com/Bubujka/yadr)
-- None [wuwujka/jekyll-sandbox](https://github.com/wuwujka/jekyll-sandbox)
-- None [wuwujka/rabfak](https://github.com/wuwujka/rabfak)
-- None [wuwujka/songs](https://github.com/wuwujka/songs)
+
