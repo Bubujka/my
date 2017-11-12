@@ -20,7 +20,6 @@ title: Репозитории
 
 
 ## Unsorted
-- None [Bubujka/bu.defun.sandbox](https://github.com/Bubujka/bu.defun.sandbox)
 - None [Bubujka/bu.dmenu](https://github.com/Bubujka/bu.dmenu)
 - None [Bubujka/bu.get_char.rb](https://github.com/Bubujka/bu.get_char.rb)
 - None [Bubujka/bu.menu](https://github.com/Bubujka/bu.menu)
@@ -30,7 +29,6 @@ title: Репозитории
 - None [Bubujka/bubujka.org](https://github.com/Bubujka/bubujka.org)
 - Centrally managed todo lists for complex processes - onboarding, offboarding, management changes, etc. [Bubujka/checklistomania](https://github.com/Bubujka/checklistomania)
 - None [Bubujka/cltr](https://github.com/Bubujka/cltr)
-- None [Bubujka/d3-learning](https://github.com/Bubujka/d3-learning)
 - None [Bubujka/dmenu](https://github.com/Bubujka/dmenu)
 - None [Bubujka/dokuro](https://github.com/Bubujka/dokuro)
 - None [Bubujka/dotfiles](https://github.com/Bubujka/dotfiles)
@@ -50,17 +48,12 @@ title: Репозитории
 - None [Bubujka/json-cli-helpers](https://github.com/Bubujka/json-cli-helpers)
 - None [Bubujka/just-give-me-github-stars](https://github.com/Bubujka/just-give-me-github-stars)
 - node.js cms and web app framework [Bubujka/keystone](https://github.com/Bubujka/keystone)
-- None [Bubujka/leather-bracelet](https://github.com/Bubujka/leather-bracelet)
-- None [Bubujka/map-demo](https://github.com/Bubujka/map-demo)
 - None [Bubujka/mayh](https://github.com/Bubujka/mayh)
 - A metalsmith plugin to watch for a changes and trigger rebuilds. [Bubujka/metalsmith-watch](https://github.com/Bubujka/metalsmith-watch)
-- None [Bubujka/mule-vagrant](https://github.com/Bubujka/mule-vagrant)
 - None [Bubujka/my](https://github.com/Bubujka/my)
 - None [Bubujka/my-i3status](https://github.com/Bubujka/my-i3status)
 - None [Bubujka/najomi.org](https://github.com/Bubujka/najomi.org)
 - Add an AngularJS admin GUI to any RESTful API [Bubujka/ng-admin](https://github.com/Bubujka/ng-admin)
-- None [Bubujka/ng-admin-learning](https://github.com/Bubujka/ng-admin-learning)
-- None [Bubujka/nocch-improfit](https://github.com/Bubujka/nocch-improfit)
 - None [Bubujka/ojli](https://github.com/Bubujka/ojli)
 - A Speed Reading Bookmarklet [Bubujka/OpenSpritz](https://github.com/Bubujka/OpenSpritz)
 - None [Bubujka/php-image-uploader](https://github.com/Bubujka/php-image-uploader)
