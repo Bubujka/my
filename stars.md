@@ -13,6 +13,10 @@ title: Лайки на github
 - Введение в bash [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)
 - Работа над текстом в unix [learnbyexample/Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing)
 - Построение интерфейса на основе консольных команд [ericfreese/rat](https://github.com/ericfreese/rat)
+- Комьюнити документация [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
+
+## Terminal applications
+- Программа для ведения заметок и задач [laurent22/joplin](https://github.com/laurent22/joplin)
 
 ## HTML & CSS
 - Инструмент отладки попиксельности [2gis/makeup](https://github.com/2gis/makeup)
@@ -63,6 +67,8 @@ title: Лайки на github
 - Color picker [DavidDurman/FlexiColorPicker](https://github.com/DavidDurman/FlexiColorPicker)
 - Рисование progress-bar сверху на сайте [rstacruz/nprogress](https://github.com/rstacruz/nprogress)
 - Визуализация timeline [NUKnightLab/TimelineJS3](https://github.com/NUKnightLab/TimelineJS3)
+- Замена ncurses [cronvel/terminal-kit](https://github.com/cronvel/terminal-kit)
+- Рекомендации по ноде [i0natan/nodebestpractices](https://github.com/i0natan/nodebestpractices)
 
 ### Angular
 - Библиотека для работы с rest-api [mgonto/restangular](https://github.com/mgonto/restangular)
@@ -79,6 +85,8 @@ title: Лайки на github
 
 ## Webdev
 - Превратить google таблицу в json [bassarisse/google-spreadsheet-to-json](https://github.com/bassarisse/google-spreadsheet-to-json)
+- Узнать на чём сайт написан [WeiChiaChang/stacks-cli](https://github.com/WeiChiaChang/stacks-cli)
+- Набор svg иконок [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons)
 
 ## Blog
 - Заметки что нового человек узнал [jbranchaud/til](https://github.com/jbranchaud/til)
@@ -98,6 +106,8 @@ title: Лайки на github
 - Список по python [vinta/awesome-python](https://github.com/vinta/awesome-python)
 - Список ссылок по аналитике-статистике  [thenaturalist/awesome-business-intelligence](https://github.com/thenaturalist/awesome-business-intelligence)
 - Список ссылок по питону [dhamaniasad/awesome-postgres](https://github.com/dhamaniasad/awesome-postgres)
+- Список по консольным приложениям [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell)
+- Список по декораторам в питоне [lord63/awesome-python-decorator](https://github.com/lord63/awesome-python-decorator)
 
 ## Misc
 - Книга Passionate Programmer на русском [etartakovsky/passionate-programmer-translation](https://github.com/etartakovsky/passionate-programmer-translation)
@@ -108,3 +118,12 @@ title: Лайки на github
 
 ## Python
 - Сервис для отладки http запросов [kennethreitz/httpbin](https://github.com/kennethreitz/httpbin)
+
+## Git
+- Рекомендации по гиту [k88hudson/git-flight-rules](https://github.com/k88hudson/git-flight-rules)
+
+## Accounting
+- Способы заработка для opensource разработчиков [nayafia/lemonade-stand](https://github.com/nayafia/lemonade-stand)
+
+## Python
+- Норвиг на питоне лабает [norvig/pytudes](https://github.com/norvig/pytudes)
