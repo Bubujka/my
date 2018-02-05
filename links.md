@@ -22,6 +22,7 @@ title: Закладки
 
 ## Javascript
 - Статистика загрузки пакетов в npm на графике [npm-stat.com](https://npm-stat.com)
+- Красивая демка с осцилографом [dood.al](https://dood.al/oscilloscope/)
 
 ## Cocktails
 - Перепись коктейлей [www.cocktaildb.com](http://www.cocktaildb.com/index)
