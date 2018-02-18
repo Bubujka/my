@@ -2,6 +2,11 @@
 title: Закладки
 ---
 
+## Опросы
+- Общий опрос программистов [research.hackerrank.com](https://research.hackerrank.com/developer-skills/2018/)
+- Опрос за 2017 js программистов [stateofjs.com](https://stateofjs.com/2017/introduction/)
+- Опрос за 2016 js программистов [2016.stateofjs.com](http://2016.stateofjs.com/)
+
 ## Lists
 - Список советуемых книг на reddit [redditfavorites.com](https://redditfavorites.com/)
 - Перепись онлайн курсов [class-central.com](http://class-central.com)
