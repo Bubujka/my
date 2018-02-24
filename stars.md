@@ -35,7 +35,6 @@ title: Лайки на github
 - Перепись разных проблем, что могут в данных встречаться [Quartz/bad-data-guide](https://github.com/Quartz/bad-data-guide)
 
 ## Software
-- Список linux софта  [LewisVo/Awesome-Linux-Software](https://github.com/LewisVo/Awesome-Linux-Software)
 - Софтина для нарезки видео [mifi/lossless-cut](https://github.com/mifi/lossless-cut)
 - Перепись софта для обработки разных форматов текстовых [dbohdan/structured-text-tools](https://github.com/dbohdan/structured-text-tools)
 - HTTP-proxy с chrome-dev-tools [kdzwinel/betwixt](https://github.com/kdzwinel/betwixt)
@@ -127,3 +126,22 @@ title: Лайки на github
 
 ## Python
 - Норвиг на питоне лабает [norvig/pytudes](https://github.com/norvig/pytudes)
+
+## Unsorted
+- 🌈 React for interactive command-line apps [vadimdemedes/ink](https://github.com/vadimdemedes/ink)
+- A react renderer for blessed. [Yomguithereal/react-blessed](https://github.com/Yomguithereal/react-blessed)
+- This list details some of the hidden norms about Hacker News not otherwise covered in the Guidelines and the FAQ. [minimaxir/hacker-news-undocumented](https://github.com/minimaxir/hacker-news-undocumented)
+- A list of amazing Newsletters [vredniy/awesome-newsletters](https://github.com/vredniy/awesome-newsletters)
+- A list of back-end related questions you can be inspired from to interview potential candidates, test yourself or completely ignore [arialdomartini/Back-End-Developer-Interview-Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions)
+- 🕸 Almost complete answers to "Front-end Job Interview Questions" which you can use to interview potential candidates, test yourself or completely ignore [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook)
+- [WIP] Learn FFmpeg libav the Hard Way [leandromoreira/ffmpeg-libav-tutorial](https://github.com/leandromoreira/ffmpeg-libav-tutorial)
+- GRV is a terminal interface for viewing git repositories [rgburke/grv](https://github.com/rgburke/grv)
+- a Disqus alternative [posativ/isso](https://github.com/posativ/isso)
+- Easy to maintain open source documentation websites. [facebook/Docusaurus](https://github.com/facebook/Docusaurus)
+- A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting. [dbcli/mycli](https://github.com/dbcli/mycli)
+- Postgres CLI with autocompletion and syntax highlighting [dbcli/pgcli](https://github.com/dbcli/pgcli)
+- A complete computer science study plan to become a software engineer. [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)
+- Making AJAX as easy as anchor tags [LeadDyno/intercooler-js](https://github.com/LeadDyno/intercooler-js)
+- 🗺 Search Interactive Maps to Learn Anything [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything)
+- A collection of JSON schema files including full API [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore)
+- 🐧 A list of awesome applications, software, tools and other materials for Linux distros. [luongvo209/Awesome-Linux-Software](https://github.com/luongvo209/Awesome-Linux-Software)

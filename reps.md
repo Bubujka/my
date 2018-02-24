@@ -87,3 +87,7 @@ title: Репозитории
 - None [Bubujka/wiki](https://github.com/Bubujka/wiki)
 - None [Bubujka/wtch](https://github.com/Bubujka/wtch)
 - None [Bubujka/yadr](https://github.com/Bubujka/yadr)
+- None [Bubujka/html-practice](https://github.com/Bubujka/html-practice)
+- None [Bubujka/jekyll-js-example](https://github.com/Bubujka/jekyll-js-example)
+- None [Bubujka/learning-progress](https://github.com/Bubujka/learning-progress)
+- None [Bubujka/php-learning](https://github.com/Bubujka/php-learning)
