@@ -151,3 +151,12 @@ title: Лайки на github
 
 ## Документирование
 - Инструментарий для создания сайтов с докой к проекту [facebook/Docusaurus](https://github.com/facebook/Docusaurus)
+
+## Unsorted
+- Parser for i3wm's configuration file. Dump key-bindings. [talwrii/i3parse](https://github.com/talwrii/i3parse)
+- A collection of useful .gitignore templates [github/gitignore](https://github.com/github/gitignore)
+- :speech_balloon: A curated list of awesome IRC resources [davisonio/awesome-irc](https://github.com/davisonio/awesome-irc)
+- Lisp code for the textbook "Paradigms of Artificial Intelligence Programming" [norvig/paip-lisp](https://github.com/norvig/paip-lisp)
+- Every web site provides APIs. [gaojiuli/toapi](https://github.com/gaojiuli/toapi)
+- :stars: A complete overview of the JavaScript landscape in 2017: trends about front-end and node.js frameworks, tooling, IDE, mobile, testing, SSG, Vue, React...  Available in English, Chinese, French and Spanish [bestofjs/javascript-risingstars](https://github.com/bestofjs/javascript-risingstars)
+- State management and more for turn based games. [google/boardgame.io](https://github.com/google/boardgame.io)
