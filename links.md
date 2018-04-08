@@ -10,6 +10,7 @@ title: Закладки
 ## Lists
 - Список советуемых книг на reddit [redditfavorites.com](https://redditfavorites.com/)
 - Перепись онлайн курсов [class-central.com](http://class-central.com)
+- Список доменов что на hn засветились [hnleaderboard.com](https://hnleaderboard.com/)
 
 ## Angular1
 - Перепись модулей для angular1 [ngmodules.org](http://ngmodules.org)
